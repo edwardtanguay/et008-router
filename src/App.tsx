@@ -22,7 +22,7 @@ function App() {
 			<h1>Info Site</h1>
 			<nav>
 				<NavLink to="/welcome">Welcome</NavLink>
-				<NavLink to="/info">Brands</NavLink>
+				<NavLink to="/info">Info</NavLink>
 				<NavLink to="/about">About</NavLink>
 			</nav>
 
